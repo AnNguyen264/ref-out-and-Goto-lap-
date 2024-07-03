@@ -1,0 +1,7 @@
+D:\0.C#\b3.Goto\Goto\bin\Debug\Goto.exe.config
+D:\0.C#\b3.Goto\Goto\bin\Debug\Goto.exe
+D:\0.C#\b3.Goto\Goto\bin\Debug\Goto.pdb
+D:\0.C#\b3.Goto\Goto\obj\Debug\Goto.csproj.AssemblyReference.cache
+D:\0.C#\b3.Goto\Goto\obj\Debug\Goto.csproj.CoreCompileInputs.cache
+D:\0.C#\b3.Goto\Goto\obj\Debug\Goto.exe
+D:\0.C#\b3.Goto\Goto\obj\Debug\Goto.pdb
