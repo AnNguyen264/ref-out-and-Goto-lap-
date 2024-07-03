@@ -1,0 +1,7 @@
+D:\0.C#\b4.biến toàn cục và biến cục bộ\biencucboandbientoancuc\bin\Debug\biencucboandbientoancuc.exe.config
+D:\0.C#\b4.biến toàn cục và biến cục bộ\biencucboandbientoancuc\bin\Debug\biencucboandbientoancuc.exe
+D:\0.C#\b4.biến toàn cục và biến cục bộ\biencucboandbientoancuc\bin\Debug\biencucboandbientoancuc.pdb
+D:\0.C#\b4.biến toàn cục và biến cục bộ\biencucboandbientoancuc\obj\Debug\biencucboandbientoancuc.csproj.AssemblyReference.cache
+D:\0.C#\b4.biến toàn cục và biến cục bộ\biencucboandbientoancuc\obj\Debug\biencucboandbientoancuc.csproj.CoreCompileInputs.cache
+D:\0.C#\b4.biến toàn cục và biến cục bộ\biencucboandbientoancuc\obj\Debug\biencucboandbientoancuc.exe
+D:\0.C#\b4.biến toàn cục và biến cục bộ\biencucboandbientoancuc\obj\Debug\biencucboandbientoancuc.pdb
